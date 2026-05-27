@@ -6,10 +6,10 @@ This repository contains my C++ implementations for Lab 07. The assignment focus
 
 There are four main programs in this lab:
 
-1. **Forward Elimination** (`lab07_elimination.cpp`): Transforms a system of linear equations into an upper triangular matrix.
-2. **Backward Substitution** (`lab07_backward.cpp`): Solves the upper triangular matrix to find the variables.
-3. **Max-Heap** (`lab07_heap.cpp`): Transforms a random, unsorted array into a max-heap in place.
-4. **LU Decomposition** (`lab07_lu.cpp`): Decomposes a matrix into lower and upper triangular matrices using Gaussian elimination.
+1. **Forward Elimination** (`gelimination.cpp`): Transforms a system of linear equations into an upper triangular matrix.
+2. **Backward Substitution** (`substitution.cpp`): Solves the upper triangular matrix to find the variables.
+3. **Max-Heap** (`maxheap.cpp`): Transforms a random, unsorted array into a max-heap in place.
+4. **LU Decomposition** (`LU.cpp`): Decomposes a matrix into lower and upper triangular matrices using Gaussian elimination.
 
 ## How to Compile and Run
 
