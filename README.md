@@ -19,4 +19,5 @@ For example, to run the LU Decomposition program:
 
 1. Compile the code:
    ```bash
-   g++ -o Lu Lu.cpp
+   g++ -o LU LU.cpp
+   ./LU
